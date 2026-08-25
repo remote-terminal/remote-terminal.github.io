@@ -1,0 +1,1 @@
+import{l as n}from"./chunk-TTVMPKLM.js";var t=class e{handler=null;register(r){this.handler=r}unregister(){this.handler=null}tryHandle(){return this.handler?.()??!1}static \u0275fac=function(a){return new(a||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{t as a};
